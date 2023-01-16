@@ -1,4 +1,4 @@
-# CMPUT401Hackathon
+# CMPUT401Hackathon- TRIP PLANNING APP
 
 This is a trip-planner webapp built with Django and React.
 it is a To-do list before trip and planning in trip.
